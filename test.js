@@ -13,5 +13,6 @@ const h = test();
 console.log(h.next());
 console.log(h.next());
 console.log(h.next());
+console.log(h.next());
 
 console.log(h);
