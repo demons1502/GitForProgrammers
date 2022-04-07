@@ -14,5 +14,5 @@ console.log(h.next());
 console.log(h.next());
 console.log(h.next());
 console.log(h.next());
-
+console.log("test pull command line");
 console.log(h);
