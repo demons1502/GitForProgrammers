@@ -20,3 +20,10 @@ console.log(h);
 function calculator(a, b) {
     return a + b;
 }
+
+class Calculator {
+    constructor(height, width) {
+        this.height = height;
+        this.width = width;
+    }
+}
