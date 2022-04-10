@@ -14,5 +14,9 @@ console.log(h.next());
 console.log(h.next());
 console.log(h.next());
 console.log(h.next());
-console.log("test pull command line");
+console.log('test pull command line');
 console.log(h);
+
+function calculator(a, b) {
+    return a + b;
+}
